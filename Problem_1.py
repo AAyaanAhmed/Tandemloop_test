@@ -24,3 +24,4 @@ op = input("Enter operation(+, -,*,/): ")
 output = calculator(a, b, op)
 result = output.calc()
 print("Result:", result)
+
